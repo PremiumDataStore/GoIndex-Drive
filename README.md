@@ -10,11 +10,9 @@ Origin: https://github.com/donwa/goindex
 3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
 
 #### Screenshot
-Light Theme!
-[Light Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-light.png)
+Light Theme![Light Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-light.png)
 
-Dark Theme!
-[Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
+Dark Theme![Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
 
 ---
 - Light or Dark Themes
